@@ -5,6 +5,10 @@ using System;
 
 public class SQLiteHelper
 {
+    
+    
+    
+    
     /// <summary>
     /// 数据库连接定义
     /// </summary>
