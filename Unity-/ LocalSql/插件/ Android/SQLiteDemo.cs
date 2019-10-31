@@ -5,6 +5,7 @@ using SUIFW;
 using System.Collections.Generic;
 public class SQLiteDemo : MonoBehaviour
 {
+
     private string[] AllFields = new string[9] { "SerialNumber", "Name", "Gender", "Age", "Address", "PhoneNumber", "Doctor", "RegistrationTime", "Remarks" };
     public string TalbleName = "PlayerData";
     /// <summary>
